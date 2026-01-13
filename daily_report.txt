@@ -24,3 +24,24 @@ Patterns learned:
 Blockers:
 - Prefix sum + hash map 
 - three pointer sliding window
+
+
+Day 2
+Solved: X/8
+Easy: X
+Medium: X
+Hard: X
+
+Solved without help:
+- 303
+
+Needed hints:
+- ...
+
+Failed:
+- ...
+
+Pattern clarity (1–5):
+PrefixSum+Map: X
+SlidingWindow: X
+

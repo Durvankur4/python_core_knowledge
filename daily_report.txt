@@ -1,3 +1,6 @@
+
+
+
 Day 1
 Solved: X/10
 Easy: X
@@ -34,14 +37,45 @@ Hard: X
 
 Solved without help:
 - 303
+- 1991
+- 560 i think i memorized the solution
+- 525 i think i memorized the solution
 
 Needed hints:
-- ...
+- 209 one tiny bug
+- 904 same
 
 Failed:
-- ...
+- 1248
+- 76
 
 Pattern clarity (1–5):
 PrefixSum+Map: X
 SlidingWindow: X
+
+
+Day 3
+Solved: X/7
+Easy: X
+Medium: X
+Hard: X
+
+Solved without help:
+- 1480
+- 217
+- 560 
+- 904
+Needed hints:
+- 930 little bit
+- 1248 little bit
+
+Failed:
+- 76
+
+Pattern clarity (1–5):
+PrefixSum+Map: X
+SlidingWindow: X
+
+What finally clicked:
+- prefix + hashing is making some sense now
 

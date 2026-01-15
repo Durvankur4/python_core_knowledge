@@ -79,3 +79,31 @@ SlidingWindow: X
 What finally clicked:
 - prefix + hashing is making some sense now
 
+Day 4
+Solved: X/9
+Easy: X
+Medium: X
+Hard: X
+
+Solved without help:
+- block A
+- 904
+- 209
+
+Needed hints:
+- 643 small hint
+- 1004 small hint
+- 567 video seen
+
+Failed:
+- block D stirng manipulation is hard
+
+
+Pattern clarity (1–5):
+PrefixSum+Map: X
+SlidingWindow: X
+
+Which window problem finally clicked:
+- ...
+
+

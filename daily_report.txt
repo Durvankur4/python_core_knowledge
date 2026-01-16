@@ -107,3 +107,32 @@ Which window problem finally clicked:
 - ...
 
 
+Day 5
+Solved: X/8
+Easy: X
+Medium: X
+Hard: X
+
+Solved without help:
+- 242
+- 383
+- 567
+- 438
+- 1004
+- 907 
+- 76 revise later
+
+Needed hints:
+- ...
+
+Failed:
+- 424
+
+Pattern clarity (1–5):
+PrefixSum+Map: X
+SlidingWindow: X
+FreqWindow: X
+
+Which problem finally clicked:
+- ...
+

@@ -136,3 +136,27 @@ FreqWindow: X
 Which problem finally clicked:
 - ...
 
+
+
+Day 6
+Solved: X/10
+Easy: X
+Medium: X
+Hard: X
+
+Solved without help:
+- 704
+
+Needed hints:
+- 35
+- 414
+
+Failed:
+- ...
+
+Pattern clarity (1–5):
+BinarySearch: X
+Greedy: X
+Stack: X
+FreqWindow: X
+

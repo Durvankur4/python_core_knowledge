@@ -1,5 +1,0 @@
-prefixsum  + hashmap
-#move curr
-#look diff
-#update counter
-#save curr

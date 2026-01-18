@@ -1,0 +1,10 @@
+PREFIXSUM + HASHMAP
+#move curr
+#look diff
+#update counter
+#save curr
+
+BINARY SEARCH
+Binary search is not about numbers.
+It is about guaranteed direction.
+If at mid you can prove the answer cannot be on one side → discard it.

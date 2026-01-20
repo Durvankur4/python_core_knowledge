@@ -187,3 +187,25 @@ Greedy: X
 Stack: X
 
 
+Day 8
+Solved: X/6
+
+Solved without help:
+- all except last block
+
+Needed hints:
+- 69 
+- 374
+
+Failed:
+- ...
+
+Binary Search clarity (1–5):
+- Loop condition understanding:
+- Mid update logic:
+- Boundary handling:
+
+What finally made sense today:
+- ...
+
+

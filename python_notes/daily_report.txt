@@ -208,4 +208,50 @@ Binary Search clarity (1–5):
 What finally made sense today:
 - ...
 
+Day 9
+New problems solved: X/6
+
+Solved without help:
+- 860
+- 121
+
+
+Needed hints:
+- 55 i solved it prev and still req solution
+
+Failed:
+- 455
+- 122
+- very fuck ing hardd 
+
+Greedy clarity (1–5):
+- Reachability:
+- Optimization:
+
+What clicked today:
+- idk DP and greedy
+
+
+
+Day 10
+New problems solved: X/5
+
+Solved without help:
+- 976
+- 122
+
+Needed hints:
+- 455 video needed
+- 605 testcases suck
+
+Failed:
+- ...
+
+Greedy clarity (1–5):
+- Local choice confidence:
+- Overthinking control:
+
+One sentence takeaway:
+- ...
+
 

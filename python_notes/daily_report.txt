@@ -256,3 +256,28 @@ One sentence takeaway:
 - ...
 
 
+
+
+Day 11
+New problems solved: X/5
+
+Solved without help:
+- 20
+- 877
+- 862
+- 1047
+
+Needed hints:
+- 496
+
+Failed:
+- ...
+
+Stack clarity (1–5):
+- Push/pop intuition:
+- When to use stack:
+
+One sentence takeaway:
+- monotonic stack feels new
+
+

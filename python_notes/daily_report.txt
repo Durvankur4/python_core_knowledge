@@ -281,3 +281,8 @@ One sentence takeaway:
 - monotonic stack feels new
 
 
+
+solved :
+1877
+
+

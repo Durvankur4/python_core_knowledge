@@ -1,8 +1,35 @@
-# Quesiton:
+# # Quesiton:
+# 374. Guess Number Higher or Lower
+# Solved
+# Easy
+# Topics
+# premium lock icon
+# Companies
+# We are playing the Guess Game. The game is as follows:
 
+# I pick a number from 1 to n. You have to guess which number I picked (the number I picked stays the same throughout the game).
 
-# Solution:
+# # Solution:
 
+# # The guess API is already defined for you.
+# # @param num, your guess
+# # @return -1 if num is higher than the picked number
+# #          1 if num is lower than the picked number
+# #          otherwise return 0
+# # def guess(num: int) -> int:
 
-# time complexity = O(n)
-# space complexity = O(n)
+# class Solution:
+#     def guessNumber(self, n: int) -> int:
+#         l = 1
+#         r = n
+#         while l<=r:
+#             m = (r-l)//2 + l
+#             if guess(m) == 0:
+#                 return m
+#             elif guess(m) == 1:
+#                 l = m + 1
+#             else:
+#                 r = m - 1
+#         return 1
+# # time complexity = O(n)
+# # space complexity = O(n)

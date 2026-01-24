@@ -239,6 +239,7 @@ New problems solved: X/5
 Solved without help:
 - 976
 - 122
+- 55 i think i memorized the sol
 
 Needed hints:
 - 455 video needed

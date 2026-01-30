@@ -282,7 +282,53 @@ One sentence takeaway:
 
 
 
+Day 12
+New problems solved: X/6
+
+Solved without help:
+- ...
+
+Needed hints:
+- 1475
+- 496 
+
+Failed:
+- 739
+
 solved :
 1877
+
+
+Monotonic stack clarity (1–5):
+- Next greater/smaller:
+- Circular handling:
+- Histogram boundaries:
+
+One takeaway:
+- stll didnt clear
+
+
+Day 13
+New problems solved: X/6
+
+Solved without help:
+- ...
+
+Needed hints:
+- 104
+- 111
+- 144 did not understand
+
+Failed:
+- ...
+
+Tree clarity (1–5):
+DFS recursion:
+BFS queue:
+
+One takeaway:
+- ...
+
+
 
 

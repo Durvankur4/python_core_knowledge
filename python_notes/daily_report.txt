@@ -331,4 +331,29 @@ One takeaway:
 
 
 
+Day 14
+New problems solved: X/5
+
+Solved without help:
+- 104
+
+Needed hints:
+- 104
+- 111
+- 226
+- 100
+
+Failed:
+- ...
+
+Tree clarity (1–5):
+- Base case understanding:
+- Return value flow:
+
+One sentence takeaway:
+- ...
+
+
+
+
 

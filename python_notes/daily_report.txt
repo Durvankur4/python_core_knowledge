@@ -344,7 +344,7 @@ Needed hints:
 - 100
 
 Failed:
-- ...
+- 94
 
 Tree clarity (1–5):
 - Base case understanding:
@@ -353,6 +353,25 @@ Tree clarity (1–5):
 One sentence takeaway:
 - ...
 
+Day 15
+New problems solved: X/5
+
+Solved without help:
+- 226 memorizedd
+- 100 memorized
+
+Needed hints:
+- ...
+
+Failed:
+- ...
+
+Tree clarity (1–5):
+- Base case intuition:
+- Execution order:
+
+One takeaway:
+- ...
 
 
 

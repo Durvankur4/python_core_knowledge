@@ -359,12 +359,13 @@ New problems solved: X/5
 Solved without help:
 - 226 memorizedd
 - 100 memorized
+- 144 
 
 Needed hints:
 - ...
 
 Failed:
-- ...
+- 110
 
 Tree clarity (1–5):
 - Base case intuition:
@@ -373,6 +374,27 @@ Tree clarity (1–5):
 One takeaway:
 - ...
 
+
+
+Day 16
+New problems solved: X/5
+
+Solved without help:
+- 104
+- 543 similar to one i solved before
+
+Needed hints:
+- ...
+
+Failed:
+- ...
+
+Tree clarity (1–5):
+- Using return values:
+- Combining left/right:
+
+One takeaway:
+- ...
 
 
 

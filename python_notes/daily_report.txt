@@ -382,6 +382,7 @@ New problems solved: X/5
 Solved without help:
 - 104
 - 543 similar to one i solved before
+- 101 hint form 100 I dont know how  to solve 100
 
 Needed hints:
 - ...

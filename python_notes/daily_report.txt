@@ -385,10 +385,10 @@ Solved without help:
 - 101 hint form 100 I dont know how  to solve 100
 
 Needed hints:
-- ...
+-  
 
 Failed:
-- ...
+- 572 harddd
 
 Tree clarity (1–5):
 - Using return values:

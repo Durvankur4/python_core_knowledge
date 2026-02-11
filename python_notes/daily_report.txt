@@ -398,4 +398,25 @@ One takeaway:
 - ...
 
 
+Day 17
+New problems solved: X/5
+
+Solved without help:
+- 572
+
+Needed hints:
+- ...
+
+Failed:
+- ...
+
+Tree clarity (1–5):
+- Compare recursion:
+- Search recursion:
+- Aggregate recursion:
+
+One takeaway:
+- ...
+
+
 

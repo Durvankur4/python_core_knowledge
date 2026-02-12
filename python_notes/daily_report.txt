@@ -403,12 +403,14 @@ New problems solved: X/5
 
 Solved without help:
 - 572
+- 700
 
 Needed hints:
-- ...
+- 112
+- 
 
 Failed:
-- ...
+- 257 backtracing was new
 
 Tree clarity (1–5):
 - Compare recursion:
@@ -419,4 +421,13 @@ One takeaway:
 - ...
 
 
+Day 18 New problems solved: X/5 Solved without help:
+• ... Needed hints:
+- 257 ig it was memorized
+
+• ... Failed:
+• ... Backtracking clarity (1–5):
+• Add/remove pattern:
+• Path building: Tree confidence (1–5): One takeaway:
+• ...
 

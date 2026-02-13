@@ -425,9 +425,15 @@ Day 18 New problems solved: X/5 Solved without help:
 • ... Needed hints:
 - 257 ig it was memorized
 - 129 jsut some syantx issues
+- 226
 • ... Failed:
 • ... Backtracking clarity (1–5):
 • Add/remove pattern:
 • Path building: Tree confidence (1–5): One takeaway:
 • ...
+
+
+Day 19 Solved without help: 404
+• ... Needed hints: 113 memorized ig
+• ... Failed:
 

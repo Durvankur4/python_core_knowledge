@@ -433,7 +433,7 @@ Day 18 New problems solved: X/5 Solved without help:
 • ...
 
 
-Day 19 Solved without help: 404
-• ... Needed hints: 113 memorized ig
+Day 19 Solved without help: 404 
+• ... Needed hints: 113 memorized ig, 617 little help
 • ... Failed:
 

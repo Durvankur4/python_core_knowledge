@@ -435,5 +435,9 @@ Day 18 New problems solved: X/5 Solved without help:
 
 Day 19 Solved without help: 404 
 • ... Needed hints: 113 memorized ig, 617 little help
-• ... Failed:
+• ... Failed: 199
 
+
+Day 20 Solved without help: 199 memorized
+• ... Needed hints: 103, 113
+• ... Failed: 236

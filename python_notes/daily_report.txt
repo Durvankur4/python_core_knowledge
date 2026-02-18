@@ -448,6 +448,6 @@ Day 21 Solved without help: 617 103 memorized 113
 • ... Failed:
 
 
-Day 22 Solved without help: 
-• ... Needed hints: 236 one hint about edge case,98 edge case are hard
-• ... Failed:
+Day 22 Solved without help: 102
+• ... Needed hints: 236 one hint about edge case,98 edge case are hard  
+• ... Failed:105 way hard for my understanding 

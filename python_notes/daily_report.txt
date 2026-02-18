@@ -439,5 +439,15 @@ Day 19 Solved without help: 404
 
 
 Day 20 Solved without help: 199 memorized
-• ... Needed hints: 103, 113
+• ... Needed hints: 103, 113 617
 • ... Failed: 236
+
+
+Day 21 Solved without help: 617 103 memorized 113 
+• ... Needed hints: 236 
+• ... Failed:
+
+
+Day 22 Solved without help: 
+• ... Needed hints: 236 one hint about edge case,98 edge case are hard
+• ... Failed:
